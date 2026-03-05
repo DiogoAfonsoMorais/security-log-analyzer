@@ -7,8 +7,9 @@
 
 A Python tool that automatically detects **brute force attacks** and **suspicious authentication patterns** from Windows OpenSSH logs and Linux-style auth logs. Built for SOC analysts who want to automate the boring parts of log analysis.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
-*Example: Tool detecting a brute force attack in real-time*
+
+
+
 
 ---
 
