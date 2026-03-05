@@ -193,19 +193,12 @@ SOC Analysts	Automate initial triage of authentication logs
 System Administrators	Monitor for compromised credentials
 Incident Responders	Quickly identify attacking IPs during investigations
 Security Students	Understand attack patterns through simulation
-🤝 Connect With Me
-Diogo Morais
-Aspiring SOC Analyst | Cybersecurity Professional
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white
 
-📧 diogo.morais@email.com
-📍 Portugal (Open to remote opportunities)
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ⭐ Support
 If you find this tool useful, please consider:
