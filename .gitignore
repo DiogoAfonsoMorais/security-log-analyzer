@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Windows
+*.pyc
+Thumbs.db
+*.log
+*.csv
+*.json
+.DS_Store
+
+# Reports (não queremos reports de teste no git)
+reports/*.csv
+reports/*.json
+!reports/.gitkeep
+
+# Logs de teste
+samples/*.log
+!samples/.gitkeep
+
+# Virtual Environment
+venv/
+env/
+.env
+Scripts/
+*.exe

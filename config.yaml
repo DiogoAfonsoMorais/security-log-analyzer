@@ -1,0 +1,18 @@
+# Security Log Analyzer Configuration
+
+thresholds:
+  brute_force:
+    max_attempts: 5
+    time_window: 300
+  
+  user_enumeration:
+    max_users: 10
+    time_window: 600
+
+log_sources:
+  auth_log: "C:/ProgramData/ssh/logs/sshd.log"  # Windows OpenSSH path
+  # alternative: "samples/auth.log" for testing
+
+output:
+  format: "csv"
+  report_dir: "reports/"
