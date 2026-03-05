@@ -194,11 +194,6 @@ System Administrators	Monitor for compromised credentials
 Incident Responders	Quickly identify attacking IPs during investigations
 Security Students	Understand attack patterns through simulation
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white
-
-
 
 ⭐ Support
 If you find this tool useful, please consider:
